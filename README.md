@@ -1,0 +1,2 @@
+# Option Pricing Models -- Finsearch 2023-24
+This project assesses the accuracy of various models by comparing their calculated option prices to the real option prices derived from Nifty50 index options.
